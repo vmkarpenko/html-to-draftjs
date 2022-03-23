@@ -38,6 +38,9 @@
     "clean": "rimraf dist",
     "build": "npm run clean && webpack --mode production --config config/webpack.config.js"
   },
+  "files": [
+    "dist"
+  ],
   "author": "Jyoti Puri",
   "license": "MIT"
 }
