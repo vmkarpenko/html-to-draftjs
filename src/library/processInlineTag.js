@@ -1,4 +1,8 @@
 const inlineTags = {
+  b: 'BOLD',
+  i: 'ITALIC',
+  u: 'UNDERLINE',
+  strike: 'STRIKETHROUGH',
   code: 'CODE',
   del: 'STRIKETHROUGH',
   em: 'ITALIC',
