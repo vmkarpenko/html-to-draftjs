@@ -4,7 +4,7 @@
   "main": "dist/html-to-draftjs.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpuri/html-to-draftjs.git"
+    "url": "https://github.com/vmkarpenko/html-to-draftjs.git"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
